@@ -1,5 +1,5 @@
 # Hi, I’m Reiko
-Student at the University of Michigan
+Student majoring in Computer Science in the School of Engineering at the University of Michigan.
 
 ## My Website
 https://reikoc1735.github.io/
